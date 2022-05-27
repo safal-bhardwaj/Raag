@@ -1,0 +1,86 @@
+
+body
+{
+ margin-top: 0;
+ margin-left: 0%;
+ margin-right: 0%;
+ margin-bottom: 0%;
+ background-color: #000;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ Color: #dadada;
+ border: #00cccd;
+ border-width: 5px;
+ border-top-style: solid;
+}
+
+ @keyframes anime
+ {
+    from{letter-spacing: -5px;}
+    to{letter-spacing: 0px;    }
+ }
+ #subhead
+ {
+   animation-name: anime;
+   animation-duration: 4s;
+ }
+
+.banner
+{
+   position: relative;
+    background-color: #000;
+    height: fit-content;
+    font-family: Bodoni MT Italic;  
+
+    
+}
+
+ul 
+{
+    list-style: none;
+    margin-top: 0%;
+    display: inline-flex;
+    align-items: right;
+    justify-content: space-between;
+   
+}
+  
+  a {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    display: block;
+    padding: 8px;
+    padding-right: 30px;
+    padding-left: 30px;
+    text-decoration: none;
+    color: #dadada;
+     }
+ a:hover{
+      color: #00cccd;
+      border-radius: 5px;
+      transition: 0.3s ease;
+      
+  }
+   
+.log
+{
+   font-weight: lighter;
+}
+
+
+ ul li:hover {
+    border-radius: 5px;
+    transition: 0.3s ease;
+    color: #00cccd;
+   }
+
+
+
+.main
+{
+   background-image: url(Home_bg_1.jpg); 
+   background-size: 100%;
+   background-repeat: no-repeat;
+   background-position: 40%;
+   width: 100%;
+   
+}

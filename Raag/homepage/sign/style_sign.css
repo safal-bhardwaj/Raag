@@ -1,0 +1,51 @@
+
+body
+{
+    border: #00cccd;
+    border-width: 5px;
+    border-top-style: solid;
+    border-radius: 5px;
+
+    background-image: url(bg.jpg);
+    background-size: 100%;
+      
+    margin-top: 0%;
+
+    color: #dadada ;
+   
+    
+}
+
+form
+{
+    background-color: #000;
+    margin-top: 5%;
+    text-align: center;
+    border:#00cccd;
+    border-radius: 10px;
+    border-width: 7px;
+    border-top-style:double ;
+    border-bottom-style:double ;
+    margin-left: 10%;
+    margin-right: 10%;
+    opacity: 0.84;
+    font-weight: bold;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    
+}
+.but
+{
+    background-color: #000; 
+    color: rgb(21, 204, 204);
+    padding: 7px; 
+    font-weight: bold; 
+    border-radius: 5px;
+    
+}
+
+.but:hover
+{   
+    color: #000;
+    background-color:  rgb(21, 204, 204);
+    transition: 0.3s ease;
+}
