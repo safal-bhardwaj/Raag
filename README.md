@@ -15,4 +15,4 @@ If you are contributing to this website then please do remember the following th
 
 
 Thank You ;)
-and yeah! you can edit this readme too (//Won't Counted as a Contribution)
+and yeah! you can edit this readme too (Won't Counted as a Contribution)
